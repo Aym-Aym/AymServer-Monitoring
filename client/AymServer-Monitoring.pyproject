@@ -1,0 +1,3 @@
+{
+    "files": ["qml/main.qml","qml/components/Card.qml","qml/components/MonitorActivity.qml","qml/components/PercentageArcBar.qml","qml/components/CpuComponent.qml","main.py","qml/components/Charts.qml","qml/components/MemoryComponent.qml"]
+}
