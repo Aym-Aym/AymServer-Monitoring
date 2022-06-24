@@ -1,4 +1,4 @@
 # AymServer-Monitoring
 AymServer system monitoring Work in progress
 
-Using QML for the client and socket system for data sharing.
+Using PySide2 and QML for the client. Socket system for data sharing.
